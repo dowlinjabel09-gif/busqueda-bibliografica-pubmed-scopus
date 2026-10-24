@@ -1,2 +1,2 @@
-# busqueda-bibliografica-pubmed-scopus
-Repositorio académico para organizar estrategias de búsqueda bibliográfica en PubMed y Scopus, incluyendo preguntas PICO/PECO, descriptores MeSH y DeCS, fórmulas de búsqueda y artículos científicos seleccionados.
+# Búsqueda bibliográfica en PubMed y Scopus
+Este repositorio tiene como objetivo organizar el proceso de búsqueda de información científica en las bases de datos PubMed y Scopus.
