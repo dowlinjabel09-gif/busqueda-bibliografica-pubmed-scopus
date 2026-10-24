@@ -10,4 +10,5 @@ Contenido:
 - Organización del trabajo por semanas.
 
 Objetivo:
+
 Desarrollar estrategias de búsqueda bibliográfica que permitan identificar artículos científicos relevantes para responder a la pregunta de investigación.
